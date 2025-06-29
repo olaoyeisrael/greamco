@@ -1,7 +1,7 @@
 import React from 'react'
 import block from '../assets/block.svg'
 import contact from '../assets/contacts.svg'
-import frame from '../assets/frame.svg'
+import frame from '../assets/Frame.svg'
 
 function Footer() {
   return (

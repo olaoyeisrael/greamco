@@ -1,6 +1,6 @@
 import React from 'react'
 import image1 from '../assets/noun-strategic-4068014 1.svg'
-import executive from '../assets/executive.svg'
+import executive from '../assets/Executive.svg'
 import advanced from '../assets/advanced.svg'
 import Holistic from '../assets/holistic.svg'
 
